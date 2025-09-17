@@ -1,5 +1,5 @@
 # 🧑🏾‍💻 Pyetro Araujo
-**`Desenvolvedor Back-end`**
+**`Desenvolvedor`**
  
 Me chamo Pyetro Araujo, tenho 19 anos e sou natural do Rio de janeiro. Concluí o ensino médio no CIEP 092 Federico Fellin. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologia e aprendeder sobre esse mundo.
 ### 🤖💻 Linguagens e Tecnologias
