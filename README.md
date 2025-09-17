@@ -12,3 +12,11 @@ Me chamo Pyetro Araujo, tenho 19 anos e sou natural do Rio de janeiro. Concluí 
     style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
   />
+<img 
+   align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="60px" 
+    style="padding-right: 10px;" 
+  src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg
+  />
