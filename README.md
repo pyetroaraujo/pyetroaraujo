@@ -8,39 +8,7 @@ Me chamo Pyetro Araujo, tenho 19 anos e sou natural do Rio de janeiro. Concluí 
    align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
   />
-
-  
-   
-  <img 
-   align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" 
-  />
-
-  
- <img 
- align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
- />
-
- 
- <img 
- align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
- src= "![javascript] (https://raw.githubusercontent.com/cerebrobr/adesivos/master/view/javascript.png)"
- />
-
